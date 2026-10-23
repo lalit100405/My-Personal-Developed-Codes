@@ -1,5 +1,5 @@
 #include<stdio.h>
-addition(int,int);
+addition(int Value1,int Value2);
 int main()
 {
 	int Lalit1=0;
